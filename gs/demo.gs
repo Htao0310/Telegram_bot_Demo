@@ -1,9 +1,9 @@
 //==================    YOU API TOKEN   ==========================
 
-var API_TOKEN = "679319253:AAGm3cvZU_m5ZjEh1Qc0Uh1MoqVvCnzUido";
+var API_TOKEN = "YOU API TOKEN";
 var url = "https://api.telegram.org/bot" + API_TOKEN;
 var webAppUrl = "https://script.google.com/macros/s/AKfycbxS5x4Dcrnj250ALefdrx0Fos1Q6qTM0Gqu9B8iFlzr6sRSff4U/exec";
-var Spreadsheet_id = "1XZ8RfP3otEq_UxSmGPY_aIpOZHJKGUsOjOUl-KORwgg";
+var Spreadsheet_id = "YOU Sheet id";
 
 
 //==================        main        ==========================
